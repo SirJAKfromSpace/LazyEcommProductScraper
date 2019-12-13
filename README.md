@@ -1,4 +1,4 @@
-# LazyEcommProductGetter
+# LazyEcommProductScraper
 #### A python scraper that collects products lists from an ecommerce website.
 - Basically it scraped a sitemap for a category listing.
 - Browsed every page of each category and acquired a long long list of product links
